@@ -36,4 +36,4 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-
+[1] M. S.Yasar, D. Evans and H. Alemzadeh , “Context-aware Monitoring in Robotic Surgery,” To appear in the International Symposium on Medical Robotics (ISMR), 2019., Atlanta, Georgia, USA, Apr 2019.

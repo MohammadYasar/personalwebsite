@@ -1,6 +1,6 @@
 +++
 # Awards widget.
-widget = "contact"
+widget = "hero_carousel"
 active = true
 date = 2016-04-20T00:00:00
 

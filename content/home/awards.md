@@ -1,14 +1,24 @@
-+++
-# Awards widget.
 widget = "accomplishments"
-active = true
+headless = true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-title = "Awards"
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[item]]
-  organization = "ISMR"
+  organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Travel Grant"
+  title = "Neural Networks and Deep Learning"
   url = ""
-  date_start = "2019-04-01"
-  
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""

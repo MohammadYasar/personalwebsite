@@ -2,6 +2,7 @@
 widget = "accomplishments"
 headless = true  # This file represents a page section.
 title = "Awards"
+weight = 30
 # ... Put Your Section Options Here (title etc.) ...
 
 # Date format
@@ -22,4 +23,13 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = ""
+
+  [[item]]
+    organization_url = "https://www.coursera.org"
+    title = "2nd in ECE Poster Session"
+    url = ""
+
+    date_start = "2018-09-01"
+    date_end = ""
+    description = ""
 +++

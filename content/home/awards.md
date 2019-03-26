@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization_url = "https://www.coursera.org"
+  organization = "Internation Symposium for Medical Robotics 2019"
   title = "ISMR Travel Grant"
   url = ""
 
@@ -26,6 +27,7 @@ date_format = "Jan 2006"
 
   [[item]]
     organization_url = "https://www.coursera.org"
+    organization = "University of Virginia"
     title = "2nd in ECE Poster Session"
     url = ""
 

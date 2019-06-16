@@ -51,7 +51,6 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "msy9an@virginia.edu"
-phone = "434 422 2530"
 address = "151 Engineer's Way, Charlottesville, VA 22911"
 
 # Office hours (TA): use `<br>` to insert a line break, or set to "" to remove office hours

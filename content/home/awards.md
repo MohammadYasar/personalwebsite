@@ -16,7 +16,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization_url = "https://www.coursera.org"
+  organization_url = http://2019.dsn.org/"
+  organization = "Dependable Systems and Networks"
+  title = "DSN Travel Grant"
+  url = ""
+
+  date_start = "2019-06-24"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization_url = "http://www.ismr.gatech.edu/"
   organization = "Internation Symposium for Medical Robotics 2019"
   title = "ISMR Travel Grant"
   url = ""
@@ -26,7 +37,7 @@ date_format = "Jan 2006"
   description = ""
 
   [[item]]
-    organization_url = "https://www.coursera.org"
+    organization_url = "https://engineering.virginia.edu/news/2018/09/ece-department-awards"
     organization = "University of Virginia"
     title = "2nd in ECE Poster Session"
     url = ""

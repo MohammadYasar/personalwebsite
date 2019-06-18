@@ -37,5 +37,7 @@ publication_type = "-1"
 exclude_featured = false
 +++
 [1] M. S.Yasar, D. Evans and H. Alemzadeh , “Context-aware Monitoring in Robotic Surgery,” To appear in the International Symposium on Medical Robotics (ISMR), 2019., Atlanta, Georgia, USA, Apr 2019.
++++
 [2] M. S.Yasar, M. T. Rashid and M. K. Rhaman, “Digitization of the Entire Traffic System and Mitigation of the Ongoing Traffic Crisis Across Cities of Developing Nations,” IEEE TENCON 2015 - 2015 IEEE Region 10 Conference, Macau, China Nov 2015.
++++
 [3] M. S.Yasar and M. T. Rashid, “Implementation of dynamic traffic light controllers using artificial neural networks to diminish traffic ordeals”, European Modelling Symposium, Madrid, Spain Oct 2015.

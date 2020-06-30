@@ -94,4 +94,4 @@ hobbies = [
 
 +++
 
-I am a PhD candidate in Computer Engineering at the University of Virginia. Since Fall 2017, I have been working with the Dependable Systems and Analytics Lab. My research interests lie at the intersection of machine learning, dependability and robotics. I am particularly interested finding solutions to safer robotic surgery through understanding contexts in surgical tasks and distinguishing between unsafe and safe gestures. 
+I am a PhD student in Computer Engineering at the University of Virginia. My research interests lie at the intersection of machine learning and robotics.

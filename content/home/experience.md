@@ -20,13 +20,27 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant"
+  company = "Collaborative Robotics Lab"
+  company_url = ""
+  location = "University of Virginia"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """
+  Project:
+Anticipatory Planning in Human Robot Interaction
+  """
+
+
+
+[[experience]]
+  title = "Graduate Research Assistant"
   company = "Dependable Systems and Analytics Lab"
   company_url = ""
   location = "University of Virginia"
   date_start = "2017-08-21"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """
-  Current Project:
+  Project:
 Safety in teleoperated robotic surgery
   """
 

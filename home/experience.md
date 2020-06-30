@@ -24,9 +24,9 @@ date_format = "January 2006"
   company_url = ""
   location = "University of Virginia"
   date_start = "2017-08-21"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """
-  
+
   """
 
 [[experience]]

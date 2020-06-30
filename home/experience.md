@@ -26,8 +26,7 @@ date_format = "January 2006"
   date_start = "2017-08-21"
   date_end = ""
   description = """
-  Current Project:
-Safety in teleoperated robotic surgery
+  
   """
 
 [[experience]]

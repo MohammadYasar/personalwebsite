@@ -16,6 +16,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization_url = "https://hripioneers.org/"
+  organization = "International Conference on Human-Robot Interaction"
+  title = "HRI Pionners 2022"
+  url = ""
+
+  date_start = "2022-06-24"
+  date_end = ""
+  description = ""
+
+  [[item]]
+    organization_url = "https://undergraduateresearch.virginia.edu/our-opportunities/grants/double-hoo-award"
+    organization = "University of Virginia"
+    title = "Double Hoo Award 2022"
+    url = ""
+
+    date_start = "2022-06-24"
+    date_end = ""
+    description = ""
+
+
+[[item]]
   organization_url = "http://2019.dsn.org/"
   organization = "Dependable Systems and Networks"
   title = "DSN Travel Grant"

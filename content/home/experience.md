@@ -30,7 +30,7 @@ date_format = "January 2006"
 Representation Learning of Multimodal Behavioral Signals in Physical Tasks 
   """
 
-
+[[experience]]
   title = "Graduate Research Assistant"
   company = "Collaborative Robotics Lab"
   company_url = ""

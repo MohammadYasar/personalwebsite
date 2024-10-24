@@ -33,6 +33,12 @@ hobbies = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "PhD in Computer Engineering"
+  institution = "University of Virginia"
+  year = 2024
+
+
+[[education.courses]]
   course = "BSc in Electrical and Electronics Engineering, minor in CS"
   institution = "BRAC University"
   year = 2015
